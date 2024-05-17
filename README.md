@@ -17,4 +17,4 @@
 
 ## ScreenShot :
 
-![](./public/Images/screenshot.png)
+![](/public/Images/screenshot.png)
