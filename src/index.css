@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body{
-    background-image: url(./images/background.jpg);
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/030/709/517/small_2x/a-dj-immersed-in-the-art-of-mixing-hands-deftly-move-turntables-to-create-a-symphony-of-beats-generative-ai-free-photo.jpg);
     background-position: center;
     background-size: cover;
     height: 100vh;
