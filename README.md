@@ -1,8 +1,8 @@
 # 🎶 Interactive Drum Kit App Developer | React.js
 
 🥁✨
-- Live Site : -> [CLICK HERE]()
-- Solution Page : -> [CLICK HERE]()
+- Live Site : -> [Live Site](https://interactive-drum-kit-app.vercel.app/)
+- Solution Page : -> [Solution Page[GitHub]](https://github.com/sourabh-yalagod/Interactive-Drum-Kit-App)
 
 ## 🌈 Key Features:
 
@@ -17,4 +17,4 @@
 
 ## ScreenShot :
 
-![](/public/Images/screenshot.png)
+![](./public/DemoScreenshot.png)
